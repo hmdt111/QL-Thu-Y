@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Front_end.Models.AccountViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>DANH SÁCH TÀI KHOẢN</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm Tài Khoản Mới</a>
+</p>
+<div class="table-responsive">
+
+
+    <table class="table table-bordered  ">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.AccountId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Username)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Pass)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmployeeName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreatedAt)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LastLogin)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AccountId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Username)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Pass)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmployeeName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedAt)
+                        
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastLogin)
+                    </td>
+                    <td>
+                        <a asp-action="Create" class="btn btn-success">Sửa</a>
+                        <a asp-action="Create" class="btn btn-success">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

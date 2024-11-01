@@ -1,0 +1,6 @@
+@Clinic_Animal_Project_HostAddress = http://localhost:5022
+
+GET {{Clinic_Animal_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

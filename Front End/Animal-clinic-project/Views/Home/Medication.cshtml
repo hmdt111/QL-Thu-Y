@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Danh sách thuốc";
+}
+
+@* <h1>@ViewData["Title"]</h1>
+ *@
+
+
+ <script src="~/lib/jquery/dist/jquery.min.js"></script> 
+ <link rel="stylesheet" href="//cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css" />
+<script src="//cdn.datatables.net/2.1.8/js/dataTables.min.js"></script> 
+<h1>DANH SÁCH THUỐC</h1>
+<table id="tbl1">
+    <thead>
+        <tr>MÃ</tr>
+        <tr>TÊN THUỐC</tr>
+        <tr>GIÁ TIỀN</tr>
+        <tr>TỒN KHO</tr>
+        <tr>CHI TIẾT</tr>
+    </thead>
+
+    <tbody>
+
+    </tbody>
+</table>
+ 
+<script>
+    $(document).ready(function () {
+        var url = "https://localhost:7189/Thuoc/List";
+        $.post(url, {}, function (kq) {
+            var dulieu = kq.data
+            $('#tbl1').DataTable(
+                {
+                    data: dulieu,
+                    column:[
+                        { "data": "MedicationId" },
+                        { "data": "MedicationName" },
+                        { "data": "UnitPrice" },
+                        { "data": "StockQuantity" },
+                        { "data": "MedicationDescription" },
+
+                    ]
+
+                }
+            );
+        });
+    });
+</script> 

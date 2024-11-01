@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Front_end.Models.RoleViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>DANH SÁCH CHỨC VỤ</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm Chức Vụ Mới</a>
+</p>
+<div class="table-responsive">
+
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.RoleId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RoleName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RoleDescription)
+                </th>
+                <th>CÔNG CỤ</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RoleId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RoleName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RoleDescription)
+                    </td>
+                    <td>
+                        <a asp-action="Create" class="btn btn-success">Sửa</a>
+                        <a asp-action="Create" class="btn btn-success">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
