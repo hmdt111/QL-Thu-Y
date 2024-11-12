@@ -1,0 +1,18 @@
+﻿@model Front_end.Models.CustomerViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Xóa Khách Hàng</h1>
+
+<h3>Bạn có muốn xóa khách hàng này ?</h3>
+<div>
+   
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

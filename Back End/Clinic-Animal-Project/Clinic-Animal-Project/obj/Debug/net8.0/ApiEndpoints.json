@@ -2,7 +2,7 @@
   {
     "ContainingType": "Clinic_Animal_Project.Controllers.RoleController",
     "Method": "XoaChucVu",
-    "RelativePath": "ChucVu/Delete",
+    "RelativePath": "ChucVu/Delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -10,7 +10,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -24,14 +24,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "des",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "role",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Role",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -48,6 +43,22 @@
   },
   {
     "ContainingType": "Clinic_Animal_Project.Controllers.RoleController",
+    "Method": "TimKiem",
+    "RelativePath": "ChucVu/TimKiem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.RoleController",
     "Method": "CapNhatChucVu",
     "RelativePath": "ChucVu/Update",
     "HttpMethod": "PUT",
@@ -55,19 +66,41 @@
     "Order": 0,
     "Parameters": [
       {
+        "Name": "role",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Role",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.ServiceController",
+    "Method": "XoaDichVu",
+    "RelativePath": "DichVu/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
-      },
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.ServiceController",
+    "Method": "ThemDichVu",
+    "RelativePath": "DichVu/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "des",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "ser",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Servicess",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -83,9 +116,41 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Clinic_Animal_Project.Controllers.ServiceController",
+    "Method": "TimKiem",
+    "RelativePath": "DichVu/TimKiem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.ServiceController",
+    "Method": "CapNhatDichVu",
+    "RelativePath": "DichVu/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ser",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Servicess",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Clinic_Animal_Project.Controllers.CustomerController",
     "Method": "XoaKhachHang",
-    "RelativePath": "KhachHang/Delete",
+    "RelativePath": "KhachHang/Delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -93,7 +158,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -107,24 +172,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "phoneNumber",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "address",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "cus",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Customer",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -141,6 +191,22 @@
   },
   {
     "ContainingType": "Clinic_Animal_Project.Controllers.CustomerController",
+    "Method": "TimKiem",
+    "RelativePath": "KhachHang/TimKiem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.CustomerController",
     "Method": "CapNhatKhachHang",
     "RelativePath": "KhachHang/Update",
     "HttpMethod": "PUT",
@@ -148,29 +214,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "phoneNumber",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "address",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "cus",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Customer",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -306,7 +352,7 @@
   {
     "ContainingType": "Clinic_Animal_Project.Controllers.MedicationController",
     "Method": "XoaThuoc",
-    "RelativePath": "Thuoc/Delete",
+    "RelativePath": "Thuoc/Delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -314,7 +360,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -328,24 +374,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "price",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
-        "Name": "stockQty",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "des",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "med",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Medication",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -362,6 +393,22 @@
   },
   {
     "ContainingType": "Clinic_Animal_Project.Controllers.MedicationController",
+    "Method": "TimKiem",
+    "RelativePath": "Thuoc/TimKiem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic_Animal_Project.Controllers.MedicationController",
     "Method": "CapNhatThuoc",
     "RelativePath": "Thuoc/Update",
     "HttpMethod": "PUT",
@@ -369,29 +416,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "price",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
-        "Name": "stockQty",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "des",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "med",
+        "Type": "Clinic_Animal_Project.ModelFromDB.Medication",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

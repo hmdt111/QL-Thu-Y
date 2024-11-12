@@ -41,9 +41,8 @@
                         @Html.DisplayFor(modelItem => item.RoleDescription)
                     </td>
                     <td>
-                        <a asp-action="Create" class="btn btn-success">Sửa</a>
-                        <a asp-action="Create" class="btn btn-success">Xóa</a>
-                    </td>
+                        <a asp-action="Edit" class="btn btn-success" asp-route-id="@item.RoleId">Sửa</a>
+                        <a asp-action="Delete" class="btn btn-success" asp-route-id="@item.RoleId">Xóa</a>
                 </tr>
             }
         </tbody>

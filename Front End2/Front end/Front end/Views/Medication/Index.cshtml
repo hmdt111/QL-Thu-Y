@@ -42,7 +42,7 @@
                         @Html.DisplayFor(modelItem => item.MedicationName)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                        @string.Format("{0:#,0}", item.UnitPrice) VNĐ
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.StockQuantity)
@@ -51,8 +51,8 @@
                         @Html.DisplayFor(modelItem => item.MedicationDescription)
                     </td>
                     <td>
-                        <a asp-action="Create" class="btn btn-success">Sửa</a>
-                        <a asp-action="Create" class="btn btn-success">Xóa</a>
+                        <a asp-action="Edit" class="btn btn-success" asp-route-id="@item.MedicationId">Sửa</a>
+                        <a asp-action="Delete" class="btn btn-success" asp-route-id="@item.MedicationId">Xóa</a>
                     </td>
                 </tr>
             }

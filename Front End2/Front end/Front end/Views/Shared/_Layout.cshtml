@@ -154,6 +154,26 @@
 
         <div class="content-wrapper">
             <div class="container-fluid">
+                @{
+                    var errorMessage = TempData["errorMessage"]?.ToString();
+                    var successMessage = TempData["successMessage"]?.ToString();
+                }
+                @if (!string.IsNullOrWhiteSpace(successMessage))
+                {
+                    <div class="alert alert-success">
+                        <b>Success : </b>@successMessage
+                        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+
+                    </div>
+                }
+                else if (!string.IsNullOrWhiteSpace(errorMessage))
+                {
+                    <div class="alert alert-danger">
+                        <b>Error : </b>@errorMessage
+                        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+
+                    </div>
+                }
 
                 <!--Start Dashboard Content-->
                 @RenderBody()
@@ -237,7 +257,8 @@
     <!-- Chart js -->
 
     <script src="~/LayoutAdmin/assets/plugins/Chart.js/Chart.min.js"></script>
-
+    <script src="~/js/Custom.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
     <!-- Index js -->
     @*  <script src="assets/js/index.js"></script> *@
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bxlml0H/2u734BrmLElaLtfk3G6uErxkYom4j9nvPu8=",
+  "Hash": "Jm98ue2nDnbD6JIN9ISvlrae3QmZVwUdUWES6gluZfE=",
   "Source": "Front end",
   "BasePath": "_content/Front end",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Front End2\\Front end\\Front end\\wwwroot\\js\\Custom.js",
+      "SourceId": "Front end",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Front End2\\Front end\\Front end\\wwwroot\\",
+      "BasePath": "_content/Front end",
+      "RelativePath": "js/Custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Custom.js"
     },
     {
       "Identity": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Front End2\\Front end\\Front end\\wwwroot\\js\\site.js",

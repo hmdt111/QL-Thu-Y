@@ -13,8 +13,10 @@ namespace Front_end.Models
 
         [StringLength(100)]
         [DisplayName("TÊN CHỨC VỤ")]
+        [Required(ErrorMessage = "Vui lòng nhập tên chức vụ")]
         public string? RoleName { get; set; }
         [DisplayName("MÔ TẢ")]
+        [Required(ErrorMessage = "Vui lòng nhập mô tả chức vụ")]
         public string? RoleDescription { get; set; }
 
         [InverseProperty("Role")]

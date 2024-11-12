@@ -53,8 +53,8 @@
                         @Html.DisplayFor(modelItem => item.CustomerEmail)
                     </td>
                     <td>
-                        <a asp-action="Create" class="btn btn-success">Sửa</a>
-                        <a asp-action="Create" class="btn btn-success">Xóa</a>
+                        <a asp-action="Edit" class="btn btn-success" asp-route-id="@item.CustomerId">Sửa</a>
+                       @*  <a asp-action="Delete" class="btn btn-success" asp-route-id="@item.CustomerId">Xóa</a> *@
                     </td>
                 </tr>
             }

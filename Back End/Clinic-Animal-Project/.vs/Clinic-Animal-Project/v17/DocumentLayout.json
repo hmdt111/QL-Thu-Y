@@ -3,14 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\modelfromdb\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\modelfromdb\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AppointmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\Controllers\\AppointmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,16 +53,8 @@
       "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\modelfromdb\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\modelfromdb\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\modelfromdb\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\modelfromdb\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\modelfromdb\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\modelfromdb\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,18 +73,6 @@
       "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\modelfromdb\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -81,24 +85,20 @@
       "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\viewmodel\\appointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\viewmodel\\appointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AccountVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\ViewModel\\AccountVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\PetVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\ViewModel\\PetVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\PetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic-Animal-Project\\Controllers\\PetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|c:\\users\\84859\\desktop\\animal-clinic-project\\back end\\clinic-animal-project\\clinic-animal-project\\viewmodel\\petvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C726B9-ABA4-4EE6-80C7-8F6927086541}|Clinic-Animal-Project\\Clinic-Animal-Project.csproj|solutionrelative:clinic-animal-project\\viewmodel\\petvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -108,62 +108,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "about.html",
-              "DocumentMoniker": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\about.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\about.html",
-              "ToolTip": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\about.html",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\about.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-01T13:52:56.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "contact.html",
-              "DocumentMoniker": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\contact.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\contact.html",
-              "ToolTip": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\contact.html",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\contact.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAOUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-01T13:30:23.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:05:07.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppointmentVM.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:03:28.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Appointment.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Appointment.cs",
@@ -175,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\AccountController.cs",
@@ -187,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AccountVM.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AccountVM.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\AccountVM.cs",
@@ -199,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Medication.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Medication.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Medication.cs",
@@ -211,19 +160,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwE8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T15:38:43.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Servicess.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Servicess.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Servicess.cs",
@@ -235,19 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\ServiceController.cs",
               "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwGoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:23:55.736Z"
+              "WhenOpened": "2024-10-29T16:23:55.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Account.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Account.cs",
@@ -259,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Employee.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Employee.cs",
@@ -271,127 +221,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:34:01.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:01:35.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:22:51.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PetVM.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\PetVM.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\PetVM.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\PetVM.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\PetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:03:49.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MedicationController.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\MedicationController.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\MedicationController.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\MedicationController.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\MedicationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:08:45.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\appsettings.json",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\appsettings.json",
-              "RelativeToolTip": "Clinic-Animal-Project\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T15:02:54.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:13:27.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Clinic-Animal-Project\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T15:03:01.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\RoleController.cs",
               "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\RoleController.cs",
               "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:12:39.34Z"
+              "WhenOpened": "2024-10-22T16:12:39.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Role.cs",
-              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Role.cs",
-              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Role.cs",
-              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MedicationController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\MedicationController.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\MedicationController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\MedicationController.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\MedicationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:43:36.373Z"
+              "WhenOpened": "2024-10-21T17:08:45.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 5,
               "Title": "PetController.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\PetController.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\PetController.cs",
@@ -403,7 +259,152 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:34:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\AppointmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:03:28.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\about.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\about.html",
+              "ToolTip": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\about.html",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\about.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwHsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-01T13:52:56.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:05:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\contact.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\contact.html",
+              "ToolTip": "C:\\Users\\84859\\Downloads\\anipat-master\\anipat-master\\contact.html",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\anipat-master\\anipat-master\\contact.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAOUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-01T13:30:23.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Pet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:01:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:22:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PetVM.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\PetVM.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ViewModel\\PetVM.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ViewModel\\PetVM.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ViewModel\\PetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:03:49.24Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\appsettings.json",
+              "RelativeToolTip": "Clinic-Animal-Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T15:02:54.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:13:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Clinic-Animal-Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T15:03:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Role.cs",
+              "RelativeDocumentMoniker": "Clinic-Animal-Project\\ModelFromDB\\Role.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\ModelFromDB\\Role.cs",
+              "RelativeToolTip": "Clinic-Animal-Project\\ModelFromDB\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:43:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\84859\\Desktop\\animal-clinic-project\\Back End\\Clinic-Animal-Project\\Clinic-Animal-Project\\Program.cs",
               "RelativeDocumentMoniker": "Clinic-Animal-Project\\Program.cs",

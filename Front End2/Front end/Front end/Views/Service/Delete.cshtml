@@ -1,0 +1,19 @@
+﻿@model Front_end.Models.ServiceViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete</h1>
+
+<div>
+    
+    <hr />
+    <h3>Bạn muốn xóa dịch vụ này ?</h3>
+
+    <form asp-action="Delete">
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-warning">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,40 @@
+﻿@model Front_end.Models.RoleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align:center">CHỈNH SỬA THÔNG TIN CHỨC VỤ</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-lg">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RoleId" class="control-label" hidden></label>
+                <input asp-for="RoleId" class="form-control" hidden/>
+                <span asp-validation-for="RoleId" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoleName" class="control-label"></label>
+                <input asp-for="RoleName" class="form-control" />
+                <span asp-validation-for="RoleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoleDescription" class="control-label"></label>
+                <input asp-for="RoleDescription" class="form-control" />
+                <span asp-validation-for="RoleDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-warning">Quay Lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

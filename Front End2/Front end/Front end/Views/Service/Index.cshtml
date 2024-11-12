@@ -38,11 +38,11 @@
                         @Html.DisplayFor(modelItem => item.ServiceName)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                        @string.Format("{0:#,0}", item.UnitPrice) VNĐ
                     </td>
                     <td>
-                        <a asp-action="Create" class="btn btn-success">Sửa</a>
-                        <a asp-action="Create" class="btn btn-success">Xóa</a>
+                        <a asp-action="Edit" class="btn btn-success" asp-route-id="@item.ServiceId">Sửa</a>
+                        <a asp-action="Delete" class="btn btn-success" asp-route-id="@item.ServiceId">Xóa</a>
                     </td>
                 </tr>
             }

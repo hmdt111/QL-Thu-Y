@@ -1,0 +1,40 @@
+﻿@model Front_end.Models.ServiceViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align:center">CHỈNH SỬA THÔNG TIN DỊCH VỤ</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-lg">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ServiceId" class="control-label" hidden></label>
+                <input asp-for="ServiceId" class="form-control" hidden/>
+                <span asp-validation-for="ServiceId" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ServiceName" class="control-label"></label>
+                <input asp-for="ServiceName" class="form-control" />
+                <span asp-validation-for="ServiceName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UnitPrice" class="control-label"></label>
+                <input asp-for="UnitPrice" class="form-control" />
+                <span asp-validation-for="UnitPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-warning">Quay Lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

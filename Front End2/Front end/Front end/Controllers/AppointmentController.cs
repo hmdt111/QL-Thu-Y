@@ -27,5 +27,8 @@ namespace Front_end.Controllers
             }
             return View(list);
         }
+
+       
+
     }
 }

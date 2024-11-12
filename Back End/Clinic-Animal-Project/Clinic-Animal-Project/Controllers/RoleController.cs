@@ -1,6 +1,7 @@
 ﻿using Clinic_Animal_Project.ModelFromDB;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Runtime.ConstrainedExecution;
 
 namespace Clinic_Animal_Project.Controllers
 {
@@ -17,46 +18,108 @@ namespace Clinic_Animal_Project.Controllers
         [Route("/ChucVu/List")]
         public IActionResult GetList()
         {
-            var roles = dbc.Roles.ToList();
-            return Ok(roles);
+            try
+            {
+                var role = dbc.Roles.ToList();
+                if (role.Count == 0)
+                {
+                    return NotFound("Role not available");
+                }
+                return Ok(role);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet()]
+        [Route("/ChucVu/TimKiem/{id}")]
+        public IActionResult TimKiem(int id)
+        {
+            try
+            {
+                var role = dbc.Roles.Find(id);
+                if (role == null)
+                {
+                    return NotFound($"Service details not found with id {id}");
+                }
+                return Ok(role);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
         [HttpPost]
         [Route("/ChucVu/Insert")]
-        public IActionResult ThemChucVu(string name, string des)
+        public IActionResult ThemChucVu(Role role)
         {
-            Role r = new Role();
-            r.RoleName = name;
-            r.RoleDescription = des;
-            
-            dbc.Roles.Add(r);
-            dbc.SaveChanges();
-            return Ok(new { r });
+            try
+            {
+                dbc.Roles.Add(role);
+                dbc.SaveChanges();
+                return Ok("Service created.");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpPut]
         [Route("/ChucVu/Update")]
-        public IActionResult CapNhatChucVu(int id,string name, string des)
+        public IActionResult CapNhatChucVu(Role role)
         {
-            Role r = new Role();
-            r.RoleId = id;
-            r.RoleName = name;
-            r.RoleDescription = des;
+            if (role == null || role.RoleId == 0)
+            {
+                if (role == null)
+                {
+                    return BadRequest("Role data is invalid");
+                }
+                else if (role.RoleId == 0)
+                {
+                    return BadRequest($"Role Id {role.RoleId} is invalid");
+                }
+            }
+            try
+            {
+                var ro = dbc.Roles.Find(role.RoleId);
+                if (ro == null)
+                {
+                    return NotFound($"Service not found with id {role.RoleId}");
+                }
+                ro.RoleName = role.RoleName;
+                ro.RoleDescription = role.RoleDescription;
+                dbc.SaveChanges();
 
-            dbc.Roles.Update(r);
-            dbc.SaveChanges();
-            return Ok(new { r });
+                return Ok("Service details update");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpDelete]
-        [Route("/ChucVu/Delete")]
+        [Route("/ChucVu/Delete/{id}")]
         public IActionResult XoaChucVu(int id)
         {
-            Role r = new Role();
-            r.RoleId = id;
-            
-            dbc.Roles.Remove(r);
-            dbc.SaveChanges();
-            return Ok(new { r });
+            try
+            {
+                var role = dbc.Roles.Find(id);
+                if (role == null)
+                {
+                    return NotFound($"Role not found with id {id}");
+                }
+
+                dbc.Roles.Remove(role);
+                dbc.SaveChanges();
+                return Ok("Role detailed deleted");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }
